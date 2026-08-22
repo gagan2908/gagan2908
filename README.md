@@ -47,3 +47,48 @@ I enjoy turning ideas into working applications and learning through hands-on pr
 
 ```text
 Learn → Build → Test → Debug → Improve → Repeat
+
+---
+
+## Step 6 — Add your quick profile cards
+
+Immediately **below that section**, paste:
+
+```html
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+<h3>🎓</h3>
+<b>3rd Year</b>
+<br>
+B.Tech CSE
+</td>
+
+<td align="center" width="180">
+<h3>🤖</h3>
+<b>AI / ML</b>
+<br>
+Enthusiast
+</td>
+
+<td align="center" width="180">
+<h3>🧠</h3>
+<b>DSA</b>
+<br>
+Problem Solver
+</td>
+
+<td align="center" width="180">
+<h3>🚀</h3>
+<b>Builder</b>
+<br>
+Always Learning
+</td>
+
+</tr>
+</table>
+
+</div>
