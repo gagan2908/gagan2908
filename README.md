@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Gagan Virk - AI & Software Developer"/>
+<img src="./assets/hero.png" width="100%" alt="Gaganpreet Singh - AI & Software Developer"/>
 
 <br><br>
 
